@@ -1,0 +1,12 @@
+{
+  "name": "webpack-manual-implementation",
+  "version": "1.0.0",
+  "main": "bundler.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/parser": "^7.13.12",
+    "@babel/preset-env": "^7.13.12",
+    "@babel/traverse": "^7.13.0"
+  }
+}
